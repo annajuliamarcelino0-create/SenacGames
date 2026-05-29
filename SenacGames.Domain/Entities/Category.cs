@@ -1,5 +1,5 @@
 ﻿// =============================================================================
-// SenacGames.Domain - Entidade Category
+//  SenacGames.Domain - Entidade Category 
 // =============================================================================
 // Esta classe representa uma categoria de jogos no sistema.
 // Exemplos: "Ação", "RPG", "Corrida", "Terror", etc.
