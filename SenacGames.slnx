@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SenacGames.APi/SenacGames.API.csproj" Id="257d36c1-97ea-4ed0-9be8-611b5f67bf49" />
+  <Project Path="SenacGames.Application/SenacGames.Application.csproj" Id="7b0bf09d-0e5d-457f-bb89-0946117d154d" />
+  <Project Path="SenacGames.Domain/SenacGames.Domain.csproj" Id="4b39b0e4-c411-4112-8445-b3f826c1ac58" />
+  <Project Path="SenacGames.Infrastructure/SenacGames.Infrastructure.csproj" Id="a968a621-cffc-4c89-bcb3-f6d9319a6f43" />
+  <Project Path="SenacGames.UI/SenacGames.UI.csproj" Id="39ca370d-a0a7-4684-ae23-c2fd43a6ee9f" />
+</Solution>
