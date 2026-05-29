@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\anna.jmoliveira3\\source\\repos\\senacgames\\senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\anna.jmoliveira3\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\anna.jmoliveira3\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968A621-CFFC-4C89-BCB3-F6D9319A6F43}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\categoryconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257D36C1-97EA-4ED0-9BE8-611B5F67BF49}|SenacGames.APi\\SenacGames.API.csproj|c:\\users\\anna.jmoliveira3\\source\\repos\\senacgames\\senacgames.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257D36C1-97EA-4ED0-9BE8-611B5F67BF49}|SenacGames.APi\\SenacGames.API.csproj|solutionrelative:senacgames.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B39B0E4-C411-4112-8445-B3F826C1AC58}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\anna.jmoliveira3\\source\\repos\\senacgames\\senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B39B0E4-C411-4112-8445-B3F826C1AC58}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenacGamesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ToolTip": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:11:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:56:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfigurations.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\CategoryConfigurations.cs",
+              "ToolTip": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfigurations.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\CategoryConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:47:24.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.APi\\Program.cs",
+              "RelativeDocumentMoniker": "SenacGames.APi\\Program.cs",
+              "ToolTip": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.APi\\Program.cs",
+              "RelativeToolTip": "SenacGames.APi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:40:48.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "SenacGames.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\anna.jmoliveira3\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "SenacGames.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T17:57:59.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
